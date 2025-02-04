@@ -22,11 +22,11 @@ Este projeto apresenta uma implementação prática de alta disponibilidade e es
 ## Índice
 
  1. [Configuração da VPC](#1-configuração-da-vpc)
- 2. [Configuração dos Security Groups](#2-configuração-dos-security-groups)
- 3. [Configuração do File System](#3-configuração-do-file-system)
+ 2. [Configuração dos Security Groups](#2-configuração-dos-security-groups-grupos-de-segurança)
+ 3. [Configuração do File System](#3-configuração-do-file-system-sistema-de-arquivos)
  4. [Configuração do RDS](#4-configuração-do-rds)
- 5. [Configuração do template EC2](#5-configuração-do-template-ec2)
- 6. [Configuração do Load Balancer](#6-configuração-do-load-balancer)
+ 5. [Configuração do Load Balancer](#5-configuração-do-load-balancer-balanceador-de-carga)
+ 6. [Configuração do template EC2](#6-configuração-do-template-ec2-modelo-de-execução-dentro-do-auto-scaling-group)
  7. [Configuração do Auto Scaling Group](#7-configuração-do-auto-scaling-group)
  8. [Testes e Validação](#8-testes-e-validação)
 
